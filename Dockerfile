@@ -1,1 +1,1 @@
-FROM gcr.io/google_samples/gb-frontend:v5
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner
