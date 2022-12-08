@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner
+FROM k8s.gcr.io/heapster-grafana-amd64
